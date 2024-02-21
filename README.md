@@ -1,39 +1,28 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/jagenjo/webglstudio.js/master/press/images/logo.png" alt="WebGLStudio">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/jagenjo/webglstudio.js/master/press/images/logo.png"><img src="https://raw.githubusercontent.com/jagenjo/webglstudio.js/master/press/images/logo.png" alt="WebGL工作室" style="max-width: 100%;"></a>
 </p>
-
-# WEBGLSTUDIO IS IN A MIGRATION PROCESS TO A NEW REPO. STAY TUNNED
-
-# WebGLStudio.js
-
-WebGLStudio.js is an open-source, browser-based 3D graphics suite. You can edit scenes and materials, design effects and shaders, code behaviours, and share your work - all within a browser using standard web technologies.
-
-Some important WebGLStudio.js features:
-
- * A full 3D graphics engine ([LiteScene.js](https://github.com/jagenjo/litescene.js)) that supports multiple lights, shadowmaps, realtime reflections, custom materials, postFX, skinning, animation, and much more.
- * An easily extended, component-based system for controlling the rendering pipeline and interaction event hooks 
- * An easy to use, what you see is what you get (WYSIWYG) editor that provides a single interface for all coding, graph compositing and timeline features.
- * A graph editor for controlling behaviours, shaders and post-processing effects, using [LiteGraph.js](https://github.com/jagenjo/litegraph.js).
- * Supports the [LiteFileSystem.js](https://github.com/jagenjo/litefilesystem.js), a virtual file system that allows drag-and-drop storage of resources on the web, with configurable quotas, users and shared folders.
- * Export and share your work by sending a single link.
-
-For more information, visit http://webglstudio.org
-
-![Interface](press/images/interface.jpg "Interface")
-
-Features missing:
-* Mesh editing, you cannot select faces and move them
-* Support for FBX, it has some sort of support but not fully functional
-* Physics
-
-
-Installing
-----------
-
-To install WebGLStudio.js, copy the editor files to your server, then install [LiteFileSystem.js](https://github.com/jagenjo/litefilesystem.js) into a `fileserver/` folder within the `editor/` directory. 
-LiteFileSystem is a library that handles remote file storage. For more information, see the `/INSTALL.md` file and the [LiteFileSystem.js](https://github.com/jagenjo/litefilesystem.js) documentation.
-
-Feedback
---------
-
-Send all feedback to javi.agenjo@gmail.com
+<h1 tabindex="-1" dir="auto"><a id="user-content-webglstudio-is-in-a-migration-process-to-a-new-repo-stay-tunned" class="anchor" aria-hidden="true" tabindex="-1" href="#webglstudio-is-in-a-migration-process-to-a-new-repo-stay-tunned"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WEBGLSTUDIO 正在迁移到新的存储库。敬请期待</font></font></h1>
+<h1 tabindex="-1" dir="auto"><a id="user-content-webglstudiojs" class="anchor" aria-hidden="true" tabindex="-1" href="#webglstudiojs"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WebGLStudio.js</font></font></h1>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WebGLStudio.js 是一个开源的、基于浏览器的 3D 图形套件。您可以编辑场景和材质、设计效果和着色器、编码行为以及共享您的作品 - 所有这些都可以在使用标准 Web 技术的浏览器中进行。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一些重要的 WebGLStudio.js 功能：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">完整的 3D 图形引擎 ( </font></font><a href="https://github.com/jagenjo/litescene.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LiteScene.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )，支持多种灯光、阴影贴图、实时反射、自定义材质、postFX、蒙皮、动画等。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一个易于扩展的、基于组件的系统，用于控制渲染管道和交互事件挂钩</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一个易于使用的所见即所得 (WYSIWYG) 编辑器，为所有编码、图形合成和时间线功能提供单一界面。</font></font></li>
+<li><font style="vertical-align: inherit;"></font><a href="https://github.com/jagenjo/litegraph.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用LiteGraph.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">控制行为、着色器和后处理效果的图形编辑器</font><font style="vertical-align: inherit;">。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持</font></font><a href="https://github.com/jagenjo/litefilesystem.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LiteFileSystem.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，这是一个虚拟文件系统，允许在网络上拖放存储资源，并具有可配置的配额、用户和共享文件夹。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过发送单个链接来导出和共享您的作品。</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">欲了解更多信息，请访问</font></font><a href="http://webglstudio.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://webglstudio.org</font></font></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/jagenjo/webglstudio.js/blob/master/press/images/interface.jpg"><img src="/jagenjo/webglstudio.js/raw/master/press/images/interface.jpg" alt="界面" title="界面" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">缺少的功能：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网格编辑，无法选择面并移动它们</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持FBX，有某种支持但功能不全</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">物理</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-installing" class="anchor" aria-hidden="true" tabindex="-1" href="#installing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装中</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要安装 WebGLStudio.js，请将编辑器文件复制到服务器，然后将</font></font><a href="https://github.com/jagenjo/litefilesystem.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LiteFileSystem.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装到</font></font><code>fileserver/</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该</font></font><code>editor/</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目录中的文件夹中。 LiteFileSystem 是一个处理远程文件存储的库。有关更多信息，请参阅该</font></font><code>/INSTALL.md</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件和</font></font><a href="https://github.com/jagenjo/litefilesystem.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LiteFileSystem.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-feedback" class="anchor" aria-hidden="true" tabindex="-1" href="#feedback"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">反馈</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将所有反馈发送至</font></font><a href="mailto:javi.agenjo@gmail.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">javi.agenjo@gmail.com</font></font></a></p>
+</article></div>
