@@ -14,7 +14,7 @@
 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过发送单个链接来导出和共享您的作品。</font></font></li>
 </ul>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">欲了解更多信息，请访问</font></font><a href="http://webglstudio.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://webglstudio.org</font></font></a></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/jagenjo/webglstudio.js/blob/master/press/images/interface.jpg"><img src="/jagenjo/webglstudio.js/raw/master/press/images/interface.jpg" alt="界面" title="界面" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/jagenjo/webglstudio.js/blob/master/press/images/interface.jpg"><img src="https://github.com/jagenjo/webglstudio.js/raw/master/press/images/interface.jpg" alt="界面" title="界面" style="max-width: 100%;"></a></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">缺少的功能：</font></font></p>
 <ul dir="auto">
 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网格编辑，无法选择面并移动它们</font></font></li>
